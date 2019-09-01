@@ -1,0 +1,6 @@
+c:\users\ellina\documents\visual studio 2015\Projects\codility\codility\bin\Debug\codility.exe.config
+c:\users\ellina\documents\visual studio 2015\Projects\codility\codility\bin\Debug\codility.exe
+c:\users\ellina\documents\visual studio 2015\Projects\codility\codility\bin\Debug\codility.pdb
+c:\users\ellina\documents\visual studio 2015\Projects\codility\codility\obj\Debug\codility.csprojResolveAssemblyReference.cache
+c:\users\ellina\documents\visual studio 2015\Projects\codility\codility\obj\Debug\codility.exe
+c:\users\ellina\documents\visual studio 2015\Projects\codility\codility\obj\Debug\codility.pdb

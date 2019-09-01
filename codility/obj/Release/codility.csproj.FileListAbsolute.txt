@@ -1,0 +1,5 @@
+c:\users\ellina\documents\visual studio 2015\Projects\codility\codility\bin\Release\codility.exe.config
+c:\users\ellina\documents\visual studio 2015\Projects\codility\codility\bin\Release\codility.exe
+c:\users\ellina\documents\visual studio 2015\Projects\codility\codility\bin\Release\codility.pdb
+c:\users\ellina\documents\visual studio 2015\Projects\codility\codility\obj\Release\codility.exe
+c:\users\ellina\documents\visual studio 2015\Projects\codility\codility\obj\Release\codility.pdb
